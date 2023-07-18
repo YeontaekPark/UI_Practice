@@ -1,0 +1,118 @@
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.exe
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.deps.json
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.runtimeconfig.json
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.pdb
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Bottom.g.cs
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Bottom.baml
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.g.resources
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\refint\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.pdb
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ref\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Right.g.cs
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Right.baml
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LeftBar.g.cs
+C:\Users\박연택\Desktop\7월 13일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LeftBar.baml
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.exe
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.deps.json
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.runtimeconfig.json
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.pdb
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Bottom.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Right.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LeftBar.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Bottom.baml
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Right.baml
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LeftBar.baml
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.g.resources
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\refint\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.pdb
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ref\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LefBar_Annots.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LefBar_Annots.baml
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.exe
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.deps.json
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.runtimeconfig.json
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.pdb
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Bottom.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Right.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LefBar_Annots.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LeftBar.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Bottom.baml
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Right.baml
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LefBar_Annots.baml
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LeftBar.baml
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.g.resources
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\refint\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.pdb
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ref\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.exe
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.deps.json
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.runtimeconfig.json
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\bin\Debug\net6.0-windows\UI_Practice.pdb
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Bottom.g.cs
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Right.g.cs
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LefBar_Annots.g.cs
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LeftBar.g.cs
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Bottom.baml
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ControlPanel_Right.baml
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LefBar_Annots.baml
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\LeftBar.baml
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.g.resources
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\refint\UI_Practice.dll
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.pdb
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\UI_Practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\7월 17일\UI_Practice\UI_Practice\obj\Debug\net6.0-windows\ref\UI_Practice.dll

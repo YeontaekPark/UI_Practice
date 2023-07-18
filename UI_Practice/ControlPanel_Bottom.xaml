@@ -1,0 +1,95 @@
+﻿<UserControl x:Class="UI_Practice.ControlPanel_Bottom"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI_Practice"
+             mc:Ignorable="d" 
+             d:DesignHeight="40" d:DesignWidth="190">
+    <UserControl.Resources>
+        <!-- 버튼 내부 이미지 resource -->
+        <Style x:Key="ButtonImageResource" TargetType="Image">
+            <Setter Property="Margin" Value="2"/>
+        </Style>
+        
+        <!-- 버튼 resource -->
+        <Style x:Key="ControlPanelButton" TargetType="Button">
+            <Setter Property="Height" Value="20"/>
+            <Setter Property="Width" Value="20"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Margin" Value="4,0,4,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#086d62"/>
+                    <Setter Property="BorderBrush" Value="#00ffce"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- 자물쇠 and Reset버튼 resource상속 -->
+        <Style x:Key="LockResetButton" TargetType="Button" BasedOn="{StaticResource ControlPanelButton}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#086d62"/>
+                    <Setter Property="BorderBrush" Value="#00ffce"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+
+
+    <Grid Background="Transparent">
+        <Border Background="#111827" CornerRadius="20">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                        Margin="0,6,0,6">
+                <Button Style="{StaticResource ControlPanelButton}">
+                    <Image Source="/Source/ControlPanel_Bottom/Minus_Green.png" Style="{StaticResource ButtonImageResource}" ></Image>
+                </Button>
+                <TextBlock Text="200%" VerticalAlignment="Center" HorizontalAlignment="Center"
+                           Width="35"
+                           FontSize="14" Foreground="White"></TextBlock>
+                <Button Style="{StaticResource LockResetButton}">
+                    <Image Source="/Source/ControlPanel_Bottom/LockOpen_Green.png" Style="{StaticResource ButtonImageResource}"></Image>
+                </Button>
+                <Button Style="{StaticResource ControlPanelButton}">
+                    <Image Source="/Source/ControlPanel_Bottom/Add_Green.png" Style="{StaticResource ButtonImageResource}"></Image>
+                </Button>
+                <Button Style="{StaticResource LockResetButton}"
+                        Width="42"
+                        Content="RESET"
+                        FontSize="11"
+                        FontWeight="Bold"
+                        Foreground="#03c5a2">
+                </Button>
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>

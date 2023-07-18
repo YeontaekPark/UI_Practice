@@ -1,0 +1,110 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Source\ControlPanel_Bottom\Add.png" />
+    <None Remove="Source\ControlPanel_Bottom\Add_Green.png" />
+    <None Remove="Source\ControlPanel_Bottom\Add_White.png" />
+    <None Remove="Source\ControlPanel_Bottom\LockOpen.png" />
+    <None Remove="Source\ControlPanel_Bottom\LockOpen_Green.png" />
+    <None Remove="Source\ControlPanel_Bottom\LockOpen_White.png" />
+    <None Remove="Source\ControlPanel_Bottom\MInus.png" />
+    <None Remove="Source\ControlPanel_Bottom\MInus_Green.png" />
+    <None Remove="Source\ControlPanel_Bottom\MInus_White.png" />
+    <None Remove="Source\ControlPanel_Bottom\Reset.png" />
+    <None Remove="Source\ControlPanel_Bottom\Reset_Green.png" />
+    <None Remove="Source\ControlPanel_Bottom\Reset_White.png" />
+    <None Remove="Source\ControlPanel_Right\BoundingBoxTool.png" />
+    <None Remove="Source\ControlPanel_Right\BoundingBoxTool_Green.png" />
+    <None Remove="Source\ControlPanel_Right\BoundingBoxTool_White.png" />
+    <None Remove="Source\ControlPanel_Right\Comment.png" />
+    <None Remove="Source\ControlPanel_Right\Comment_Green.png" />
+    <None Remove="Source\ControlPanel_Right\Comment_White.png" />
+    <None Remove="Source\ControlPanel_Right\DragTool.png" />
+    <None Remove="Source\ControlPanel_Right\DragTool_Green.png" />
+    <None Remove="Source\ControlPanel_Right\DragTool_White.png" />
+    <None Remove="Source\ControlPanel_Right\LabelAssist.png" />
+    <None Remove="Source\ControlPanel_Right\LabelAssist_Green.png" />
+    <None Remove="Source\ControlPanel_Right\LabelAssist_White.png" />
+    <None Remove="Source\ControlPanel_Right\MarkNull.png" />
+    <None Remove="Source\ControlPanel_Right\MarkNull_Green.png" />
+    <None Remove="Source\ControlPanel_Right\MarkNull_White.png" />
+    <None Remove="Source\ControlPanel_Right\PolyTool.png" />
+    <None Remove="Source\ControlPanel_Right\PolyTool_Green.png" />
+    <None Remove="Source\ControlPanel_Right\PolyTool_White.png" />
+    <None Remove="Source\ControlPanel_Right\Redo.png" />
+    <None Remove="Source\ControlPanel_Right\Redo_Green.png" />
+    <None Remove="Source\ControlPanel_Right\Redo_White.png" />
+    <None Remove="Source\ControlPanel_Right\RepeatPrevious.png" />
+    <None Remove="Source\ControlPanel_Right\RepeatPrevious_Green.png" />
+    <None Remove="Source\ControlPanel_Right\RepeatPrevious_White.png" />
+    <None Remove="Source\ControlPanel_Right\SmartPolygon.png" />
+    <None Remove="Source\ControlPanel_Right\SmartPolygon_Green.png" />
+    <None Remove="Source\ControlPanel_Right\SmartPolygon_White.png" />
+    <None Remove="Source\ControlPanel_Right\Undo.png" />
+    <None Remove="Source\ControlPanel_Right\Undo_Green.png" />
+    <None Remove="Source\ControlPanel_Right\Undo_White.png" />
+    <None Remove="Source\LeftBar\Annots.png" />
+    <None Remove="Source\LeftBar\Attributes.png" />
+    <None Remove="Source\LeftBar\Comments.png" />
+    <None Remove="Source\LeftBar\History.png" />
+    <None Remove="Source\LeftBar\RawData.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Source\ControlPanel_Bottom\Add.png" />
+    <Resource Include="Source\ControlPanel_Bottom\Add_Green.png" />
+    <Resource Include="Source\ControlPanel_Bottom\Add_White.png" />
+    <Resource Include="Source\ControlPanel_Bottom\LockOpen.png" />
+    <Resource Include="Source\ControlPanel_Bottom\LockOpen_Green.png" />
+    <Resource Include="Source\ControlPanel_Bottom\LockOpen_White.png" />
+    <Resource Include="Source\ControlPanel_Bottom\MInus.png" />
+    <Resource Include="Source\ControlPanel_Bottom\MInus_Green.png" />
+    <Resource Include="Source\ControlPanel_Bottom\MInus_White.png" />
+    <Resource Include="Source\ControlPanel_Bottom\Reset.png" />
+    <Resource Include="Source\ControlPanel_Bottom\Reset_Green.png" />
+    <Resource Include="Source\ControlPanel_Bottom\Reset_White.png" />
+    <Resource Include="Source\ControlPanel_Right\BoundingBoxTool.png" />
+    <Resource Include="Source\ControlPanel_Right\BoundingBoxTool_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\BoundingBoxTool_White.png" />
+    <Resource Include="Source\ControlPanel_Right\Comment.png" />
+    <Resource Include="Source\ControlPanel_Right\Comment_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\Comment_White.png" />
+    <Resource Include="Source\ControlPanel_Right\DragTool.png" />
+    <Resource Include="Source\ControlPanel_Right\DragTool_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\DragTool_White.png" />
+    <Resource Include="Source\ControlPanel_Right\LabelAssist.png" />
+    <Resource Include="Source\ControlPanel_Right\LabelAssist_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\LabelAssist_White.png" />
+    <Resource Include="Source\ControlPanel_Right\MarkNull.png" />
+    <Resource Include="Source\ControlPanel_Right\MarkNull_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\MarkNull_White.png" />
+    <Resource Include="Source\ControlPanel_Right\PolyTool.png" />
+    <Resource Include="Source\ControlPanel_Right\PolyTool_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\PolyTool_White.png" />
+    <Resource Include="Source\ControlPanel_Right\Redo.png" />
+    <Resource Include="Source\ControlPanel_Right\Redo_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\Redo_White.png" />
+    <Resource Include="Source\ControlPanel_Right\RepeatPrevious.png" />
+    <Resource Include="Source\ControlPanel_Right\RepeatPrevious_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\RepeatPrevious_White.png" />
+    <Resource Include="Source\ControlPanel_Right\SmartPolygon.png" />
+    <Resource Include="Source\ControlPanel_Right\SmartPolygon_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\SmartPolygon_White.png" />
+    <Resource Include="Source\ControlPanel_Right\Undo.png" />
+    <Resource Include="Source\ControlPanel_Right\Undo_Green.png" />
+    <Resource Include="Source\ControlPanel_Right\Undo_White.png" />
+    <Resource Include="Source\LeftBar\Annots.png" />
+    <Resource Include="Source\LeftBar\Attributes.png" />
+    <Resource Include="Source\LeftBar\Comments.png" />
+    <Resource Include="Source\LeftBar\History.png" />
+    <Resource Include="Source\LeftBar\RawData.png" />
+  </ItemGroup>
+
+</Project>

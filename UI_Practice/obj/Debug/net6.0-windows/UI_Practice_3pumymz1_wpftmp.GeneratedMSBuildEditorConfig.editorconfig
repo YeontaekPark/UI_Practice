@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UI_Practice_3pumymz1_wpftmp
+build_property.ProjectDir = C:\Users\박연택\Desktop\7월 14일 과제 - 하단 버튼 수정 진행 - 진행 끝나면 이 파일이 원본파일\UI_Practice\UI_Practice\

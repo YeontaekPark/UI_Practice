@@ -1,0 +1,109 @@
+﻿<UserControl x:Class="UI_Practice.ControlPanel_Right"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI_Practice"
+             mc:Ignorable="d" 
+             d:DesignHeight="585" d:DesignWidth="60">
+
+    <UserControl.Resources>
+        <Style x:Key="ButtonImage" TargetType="Image">
+            <!-- 버튼 내부 이미지 속성-->
+            <Setter Property="Width" Value="25"/>
+        </Style>
+
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <!-- 버튼 속성 -->
+            <Setter Property="Width" Value="40"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Margin" Value="0,4,0,4"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="BorderBrush" Value="#00c29d"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Background" Value="#077e6e"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style x:Key="ButtonStyle3" TargetType="Button" BasedOn="{StaticResource ButtonStyle}">
+            <!-- 맨 아래 빨간색으로 변하는 버튼 속성-->
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="20">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="BorderBrush" Value="#b91c1c"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Background" Value="#fca5a5"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </UserControl.Resources>
+
+    <Grid Background="Transparent">
+        <Border Background="#111827" CornerRadius="10">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Button Style="{StaticResource ButtonStyle}">
+                    <Image x:Name="DragTool" Source="./Source/ControlPanel_Right/DragTool_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+                <Button Style="{StaticResource ButtonStyle}">
+                    <Image x:Name="BoundingBoxTool" Source="./Source/ControlPanel_Right/BoundingBoxTool_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+                <Button Style="{StaticResource ButtonStyle}">
+                    <Image x:Name="PolyTool" Source="./Source/ControlPanel_Right/PolyTool_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+                <Border Width="25" BorderBrush="White" Margin="0,14,0,14" BorderThickness="0,1,0,0"></Border>
+                <Button Style="{StaticResource ButtonStyle}">
+                    <Image x:Name="SmartPolygon" Source="./Source/ControlPanel_Right/SmartPolygon_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+                <Button Style="{StaticResource ButtonStyle}">
+                    <Image x:Name="LabelAssist" Source="./Source/ControlPanel_Right/LabelAssist_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+                <Button Style="{StaticResource ButtonStyle}">
+                    <Image x:Name="RepeatPrevious" Source="./Source/ControlPanel_Right/RepeatPrevious_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+                <Border Width="25" BorderBrush="White" Margin="0,14,0,14" BorderThickness="0,1,0,0"></Border>
+                <Button Style="{StaticResource ButtonStyle}">
+                    <Image x:Name="Comment" Source="./Source/ControlPanel_Right/Comment_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+                <Button Style="{StaticResource ButtonStyle}">
+                    <Image x:Name="Undo" Source="./Source/ControlPanel_Right/Undo_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+                <Button Style="{StaticResource ButtonStyle}">
+                    <Image x:Name="Redo" Source="./Source/ControlPanel_Right/Redo_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+                <Border Width="25" BorderBrush="White" Margin="0,14,0,14" BorderThickness="0,1,0,0"></Border>
+                <Button Style="{StaticResource ButtonStyle3}">
+                    <Image x:Name="MarkNull" Source="./Source/ControlPanel_Right/MarkNull_White.png" Style="{StaticResource ButtonImage}"/>
+                </Button>
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>
